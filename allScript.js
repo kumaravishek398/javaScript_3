@@ -1,5 +1,5 @@
 //Question1
-/*
+
 class Rectangular{
     constructor(width,height)
     {
@@ -21,7 +21,7 @@ console.log("After modifying height of object 1 and width of object 2" );
 
 console.log("Width:",obj1.width ," Height:",obj1.height );
 console.log("Width2:",obj2.width ," Height2:",obj2.height );
-*/
+
 
 //question 2
 
