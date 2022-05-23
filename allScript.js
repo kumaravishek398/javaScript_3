@@ -80,7 +80,7 @@ console.log(details);
 
 
 //Question 6
-//Takes a jason string and transform it into an object
+//Takes a json string and transform it into an object
 var  personal=  '({"firstName": "Avishek",  "lastName": "singh"})';
 let result=eval(personal);
 
@@ -93,7 +93,7 @@ console.log(eval(result));
 
 //Question 7
 
-//Takes a jason string and transform it into an object
+//Takes a json string and transform it into an object
 var  personal=  '{"firstName": "Avishek",  "lastName": "singh"}'; 
 console.log(JSON.parse(personal));
 
